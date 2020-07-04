@@ -1,0 +1,17 @@
+{
+  "categories": {
+    "fa": "Font Awesome",
+    "ic": "Google Material Icons",
+    "mdi": "Material Design Icons",
+    "uil": "Unicorn",
+    "uim": "Unicorn Monochrome",
+    "bx": "Box Icons",
+    "ri": "Remix Icons",
+    "la": "Line Awesome",
+    "jam": "Jam Icons",
+    "ion": "Ion Icons",
+    "bi": "Bootstrap Icons",
+    "clarity": "Clarity",
+    "carbon": "Carbon"
+  }
+}
